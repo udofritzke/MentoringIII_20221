@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 // comentário 1
+// comentário 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
