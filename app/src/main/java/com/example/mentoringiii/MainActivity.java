@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("teste", "Olá teste");
         Log.d("teste", "Olá teste 2");
+        Log.d("teste", "Olá teste 3");
     }
 }
